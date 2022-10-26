@@ -1,0 +1,8 @@
+https://www.windows-commandline.com/change-user-password-in-windows-command-line/
+
+How to change local user password
+net user  loginid  newpassword
+net user  John  pq12d*12@
+
+
+many at the website
